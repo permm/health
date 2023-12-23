@@ -1,5 +1,5 @@
 
-import Question from '../components/Question.js'
+import Question from './components/Question.js'
 
 function App() {
   return (
